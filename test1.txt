@@ -1,2 +1,4 @@
 test branch update
 test branch remote branch1 commit
+
+test branch local to  branch1 fork merge
